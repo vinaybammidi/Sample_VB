@@ -10,6 +10,8 @@ In this project I have implemented
 - IOC
 - Seperate project for Refullservice using Web API, DataAccess, MVC App.(front end).
 
-To run the project please install dapper and unity and execute the DBScript for database and change the connectionstring in the web.config of Web API project.
+Note: 
+- To run the project please install dapper and unity and execute the DBScript for database and change the connectionstring in the web.config of Web API project.
+- Please after downloading. Extract all the zip files in the project and delete the zip folders. And click on the project solution.
 
 
