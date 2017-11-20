@@ -4,7 +4,7 @@ Generic Repository using Asp.net MVC and Web API
 In this project I have implemented
 - Repository Pattern
 - Dependency Injection
-- Resful Web API 
+- Restful Web API 
 - Dapper (install dapper from NuGet or package manager console).
 - Unit of Work (install dapper from NuGet or package manager console).
 - IOC
